@@ -84,7 +84,7 @@ Runs on: `http://localhost:5173`
 
 ## 📸 Preview (Demo UI)
 
-![Dashboard Screenshot](https://dummyimage.com/800x400/111827/ffffff&text=HOST)
+![Dashboard Screenshot](https://dummyimage.com/800x400/111827/ffffff&text=HostBuddyADVANCE)
 
 ---
 
