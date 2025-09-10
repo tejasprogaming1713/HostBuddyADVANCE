@@ -18,6 +18,16 @@ Easily manage your VPS servers (Minecraft, Roblox, FiveM, etc.) from **your phon
 - 🔐 Simple, lightweight setup
 
 ---
+# CREDITS 🥇 
+
+# All codes files mentained by @tejasprogaming1713
+## YOUTUBE: https://youtube.com/@tejasprogaming1713?si=c3YWid9WOx6CKQe7
+## INSTAGRAM: https://www.instagram.com/tejasprogaming1713?igsh=c3VmN2h1Ym82c3Zs
+## DISCORD: https://discord.gg/5E2N9SJZrC
+## DISCORD USERNAME: tejasprogaming1713
+## DISCORD UID: @1261339611796340808
+
+—————————————
 
 ## 📂 Project Structure
 ```
@@ -74,7 +84,7 @@ Runs on: `http://localhost:5173`
 
 ## 📸 Preview (Demo UI)
 
-![Dashboard Screenshot](https://dummyimage.com/800x400/111827/ffffff&text=VPS+Manager+Dashboard)
+![Dashboard Screenshot](https://dummyimage.com/800x400/111827/ffffff&text=HOST)
 
 ---
 
